@@ -1,0 +1,138 @@
+[
+    {
+      "id": 1,
+      "brand": "Apple",
+      "model": "iPhone 15 Pro Max",
+      "price": 1199,
+      "storage": "256GB",
+      "ram": "8GB",
+      "battery": "4323mAh"
+    },
+    {
+      "id": 2,
+      "brand": "Samsung",
+      "model": "Galaxy S24 Ultra",
+      "price": 1299,
+      "storage": "512GB",
+      "ram": "12GB",
+      "battery": "5000mAh"
+    },
+    {
+      "id": 3,
+      "brand": "Google",
+      "model": "Pixel 8 Pro",
+      "price": 999,
+      "storage": "256GB",
+      "ram": "12GB",
+      "battery": "5050mAh"
+    },
+    {
+      "id": 4,
+      "brand": "OnePlus",
+      "model": "OnePlus 12",
+      "price": 899,
+      "storage": "256GB",
+      "ram": "16GB",
+      "battery": "5400mAh"
+    },
+    {
+      "id": 5,
+      "brand": "Xiaomi",
+      "model": "Xiaomi 14 Ultra",
+      "price": 1099,
+      "storage": "512GB",
+      "ram": "16GB",
+      "battery": "5000mAh"
+    },
+    {
+      "id": 6,
+      "brand": "Vivo",
+      "model": "Vivo X100 Pro",
+      "price": 999,
+      "storage": "256GB",
+      "ram": "12GB",
+      "battery": "5000mAh"
+    },
+    {
+      "id": 7,
+      "brand": "Oppo",
+      "model": "Oppo Find X6 Pro",
+      "price": 1099,
+      "storage": "512GB",
+      "ram": "16GB",
+      "battery": "5000mAh"
+    },
+    {
+      "id": 8,
+      "brand": "Realme",
+      "model": "Realme GT 5 Pro",
+      "price": 799,
+      "storage": "256GB",
+      "ram": "12GB",
+      "battery": "5500mAh"
+    },
+    {
+      "id": 9,
+      "brand": "Motorola",
+      "model": "Motorola Edge 40 Pro",
+      "price": 899,
+      "storage": "512GB",
+      "ram": "12GB",
+      "battery": "4600mAh"
+    },
+    {
+      "id": 10,
+      "brand": "Nothing",
+      "model": "Nothing Phone (2)",
+      "price": 799,
+      "storage": "256GB",
+      "ram": "12GB",
+      "battery": "4700mAh"
+    },
+    {
+      "id": 11,
+      "brand": "Sony",
+      "model": "Xperia 1 V",
+      "price": 1199,
+      "storage": "512GB",
+      "ram": "12GB",
+      "battery": "5000mAh"
+    },
+    {
+      "id": 12,
+      "brand": "Asus",
+      "model": "ROG Phone 8 Pro",
+      "price": 1299,
+      "storage": "1TB",
+      "ram": "24GB",
+      "battery": "6000mAh"
+    },
+    {
+      "id": 13,
+      "brand": "Honor",
+      "model": "Honor Magic 6 Pro",
+      "price": 999,
+      "storage": "512GB",
+      "ram": "16GB",
+      "battery": "5300mAh"
+    },
+    {
+      "id": 14,
+      "brand": "Huawei",
+      "model": "Huawei Mate 60 Pro",
+      "price": 1099,
+      "storage": "512GB",
+      "ram": "12GB",
+      "battery": "5000mAh"
+    },
+    {
+      "id": 15,
+      "brand": "Samsung",
+      "model": "Galaxy Z Fold 5",
+      "price": 1799,
+      "storage": "1TB",
+      "ram": "12GB",
+      "battery": "4400mAh"
+    }
+  ]
+   
